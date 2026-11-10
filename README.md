@@ -10,10 +10,10 @@
 
 模板链接：
 
-- `https://raw.githubusercontent.com/rkongzy/singbox_proxy_config/surge/standard/surge.conf`
-- `https://raw.githubusercontent.com/rkongzy/singbox_proxy_config/surge/chain/surge.conf`
+- `https://raw.githubusercontent.com/rkongzy/surge-config/refs/heads/main/standard/surge.conf`
+- `https://raw.githubusercontent.com/rkongzy/surge-config/refs/heads/main/chain/surge.conf`
 
 脚本链接（参数说明见脚本开头）：
 
-- standard：`https://raw.githubusercontent.com/rkongzy/singbox_proxy_config/surge/scripts/surge-template.js#collection=组合订阅&url=文件下载链接`
-- chain：`https://raw.githubusercontent.com/rkongzy/singbox_proxy_config/surge/scripts/surge-template.js#collection=组合订阅&landing=落地节点&url=文件下载链接`
+- standard：`https://raw.githubusercontent.com/rkongzy/surge-config/refs/heads/main/scripts/surge-template.js#collection=组合订阅&url=文件下载链接`
+- chain：`https://raw.githubusercontent.com/rkongzy/surge-config/refs/heads/main/scripts/surge-template.js#collection=组合订阅&landing=落地节点&url=文件下载链接`
