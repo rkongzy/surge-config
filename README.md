@@ -3,10 +3,10 @@
 用法和 sing-box 分支一样：Sub-Store 拉取模板，用脚本填入节点，Surge 直接订阅 Sub-Store 输出的完整配置。需要 Surge iOS 5.22.0 或更高版本。
 
 - `standard/surge.conf`：分组和 sing-box standard 版一致
-- `chain/surge.conf`：分组和 sing-box chain 版一致，落地节点通过 🔗 前置节点 连接
+- `chain/surge.conf`：分组和 sing-box chain 版一致，落地节点通过前置节点连接
 - `scripts/surge-template.js`：Sub-Store 文件脚本，写入节点，可选写入 `#!MANAGED-CONFIG`
 
-规则使用 [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules)。模板不包含 Tailscale。 Bybit 分流使用本分支的 `rules/Bybit.list`，对应 💰 Bybit 分组。
+规则使用 [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules)。模板不包含 Tailscale。 Bybit 分流使用本分支的 `rules/Bybit.list`，对应 Bybit 分组。
 
 模板链接：
 
